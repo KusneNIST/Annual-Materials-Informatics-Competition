@@ -15,4 +15,4 @@ This year’s challenge is XX brought to you through a collaboration with [the n
 |**Register**:|      website to be posted |
 |**Questions?**| Please contact: mlmr@umd.edu |
 
-Brought to you by: [The Machine Learning for Materials Research Bootcamp](https://www.nanocenter.umd.edu/events/mlmr/) - a [NIST](https://www.nist.gov/) & [UMD](https://umd.edu/) Collaboration.
+Brought to you by: [the Machine Learning for Materials Research Bootcamp](https://www.nanocenter.umd.edu/events/mlmr/) - a [NIST](https://www.nist.gov/) & [UMD](https://umd.edu/) Collaboration.
