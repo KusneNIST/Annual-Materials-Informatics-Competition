@@ -1,7 +1,7 @@
 # <p align="center"> MLMR's Annual Materials Informatics Competition 2024 </p>
 
 Each year [MLMR](https://www.nanocenter.umd.edu/events/mlmr/) teams up with a different industry partner to bring you a real-world challenge. \
-This year’s challenge is XX brought to you through a collaboration with [the nSOFT Consortium](https://www.nist.gov/nsoft), financial sponsors [Cell Matter](https://www.cell.com/matter/home) and [Cell Patterns](https://www.cell.com/patterns/home), and support from [MRS](https://www.mrs.org/home).
+This year’s challenge is XX brought to you through a collaboration with [the nSOFT Consortium](https://www.nist.gov/nsoft), financial sponsors [Cell Matter](https://www.cell.com/matter/home) and [Cell Patterns](https://www.cell.com/patterns/home), and support from [the Materials Research Society](https://www.mrs.org/home).
 
 |||
 | --- | ----------- |
