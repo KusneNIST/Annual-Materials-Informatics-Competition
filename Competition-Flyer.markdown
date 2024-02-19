@@ -1,4 +1,4 @@
-## MLMR's Annual Materials Informatics Competition 2024
+# <p align="center"> MLMR's Annual Materials Informatics Competition 2024 </p>
 
 Each year MLMR teams up with a different industry partner to bring you a real-world challenge.
 This year’s challenge is XX brought to you through a collaboration with nSOFT!
