@@ -12,7 +12,7 @@ This year’s challenge is brought to you through a collaboration with [the nSOF
 ||               Virtual: Zoom |
 |**Host**:|          In Person: [Tyler Martin](https://www.nist.gov/people/tyler-martin), [Peter Beaucage](https://www.nist.gov/people/peter-beaucage) (NIST, nSOFT), [Shijing Sun](https://www.me.washington.edu/facultyfinder/shijing-sun) (UWash) |
 ||               Remote: [A. Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne), [Austin McDannald](https://www.nist.gov/people/austin-mcdannald) (NIST) |
-|**Register**:|      website to be posted |
+|**Register**:|     [website](https://forms.gle/EYByMHVM8BS6VdnX7) |
 |**Questions?**| Please contact: mlmr@umd.edu |
 
 Brought to you by: [the Machine Learning for Materials Research Bootcamp](https://www.nanocenter.umd.edu/events/mlmr/) - a [NIST](https://www.nist.gov/) & [UMD](https://umd.edu/) Collaboration.
